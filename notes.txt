@@ -1,0 +1,2 @@
+1. To open visual studio code through command prompt------
+	open anaconda prompt and type 'code .' (same in linux)
